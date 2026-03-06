@@ -81,8 +81,8 @@ My work sits at the intersection of:
 
 - LinkedIn: https://www.linkedin.com/in/hirenkukadiya
 - GitHub: https://github.com/kukadiyahiren
-- Email: hirenkukadiya333@gmail.com
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
 
 ⭐ *I enjoy sharing practical insights about system performance, Laravel internals, and building scalable platforms.*
