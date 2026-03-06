@@ -55,7 +55,7 @@ LARAVEL • PYTHON • EXPRESS • MONGODB • MYSQL
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kukadiyahiren)
-# ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kukadiyahiren)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kukadiyahiren) -->
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Architect;Laravel+Expert;Performance+Engineer;AI-Augmented+Developer)
 
