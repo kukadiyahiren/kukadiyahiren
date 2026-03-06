@@ -31,14 +31,6 @@ My work sits at the intersection of:
 
 ---
 
-## 📊 GitHub Stats
-
-![Hiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukadiyahiren&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kukadiyahiren&layout=compact)
-
----
-
 ## 📚 Currently Exploring
 
 - AI-Augmented Software Development
@@ -56,14 +48,11 @@ My work sits at the intersection of:
 ---
 ## 💬 Ask Me About
 
-Laravel • PYTHON • EXPRESS • MONGODB • MYSQL
+LARAVEL • PYTHON • EXPRESS • MONGODB • MYSQL
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
+
 ## 📊 GitHub Stats
-
-![Hiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukadiyahiren&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kukadiyahiren&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kukadiyahiren)
 
