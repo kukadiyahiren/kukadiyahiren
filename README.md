@@ -19,35 +19,6 @@ My work sits at the intersection of:
 - Design reliable APIs and distributed systems
 - Build education & exam platforms handling thousands of users
 - Apply AI tools to accelerate development workflows
-
----
-
-## ⚙️ Tech Stack
-
-**Backend**
-- Laravel
-- PHP
-- Node.js
-- Python
-
-**Databases**
-- MySQL
-- Redis
-- Query Optimization
-- Caching Strategies
-
-**Architecture**
-- API Design
-- System Design
-- Performance Engineering
-- Clean Architecture
-
-**Tools**
-- Docker
-- Git
-- Linux
-- AI Development Tools
-
 ---
 
 ## 🏗 What I Love Building
@@ -83,6 +54,18 @@ My work sits at the intersection of:
 - GitHub: https://github.com/kukadiyahiren
 
 ---
+## 💬 Ask Me About
+
+Laravel • PYTHON • EXPRESS • MONGODB • MYSQL
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
+## 📊 GitHub Stats
+
+![Hiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kukadiyahiren&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kukadiyahiren&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kukadiyahiren)
+
 
 ⭐ *I enjoy sharing practical insights about system performance, Laravel internals, and building scalable platforms.*
