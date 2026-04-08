@@ -49,8 +49,8 @@ I focus on:
 
 **Backend**
 
-* Laravel (Expert)
 * Python (AI / Data / Automation)
+* Laravel (Expert)
 * Node.js / Express
 
 **Databases**
@@ -96,7 +96,7 @@ I focus on:
 
 ## 💬 Ask Me About
 
-**Laravel • System Design • Performance Optimization • Scaling • APIs • Python • Databases**
+**Python • Laravel • System Design • Performance Optimization • Scaling • APIs • Databases**
 
 ---
 
