@@ -1,7 +1,7 @@
-# Hi 👋 I'm Hiren Kukadiya
+# Hi 👋 I'm Hiren Kukadiya ![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
 
 🚀 Team Lead | Systems Performance Architect | AI-Augmented Developer  
-⚡ Laravel & System Design Expert | Building High-Scale Education Platforms  
+⚡  System Design Expert | Building High-Scale Education Platforms  
 
 I specialize in building **high-performance backend systems** that remain stable under heavy traffic.  
 With **8+ years of experience**, I focus on solving the problems that appear when systems start scaling.
@@ -50,7 +50,6 @@ My work sits at the intersection of:
 
 LARAVEL • PYTHON • EXPRESS • MONGODB • MYSQL
 
-![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
 
 ## 📊 GitHub Stats
 
