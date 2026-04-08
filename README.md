@@ -1,61 +1,125 @@
-# Hi 👋 I'm Hiren Kukadiya ![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
+# 👋 Hi, I'm Hiren Kukadiya ![Profile Views](https://komarev.com/ghpvc/?username=kukadiyahiren)
 
-🚀 Team Lead | Systems Performance Architect | AI-Augmented Developer  
-⚡  System Design Expert | Building High-Scale Education Platforms  
+🚀 **Backend Systems Architect | Performance Engineer | AI-Augmented Developer**
 
-I specialize in building **high-performance backend systems** that remain stable under heavy traffic.  
-With **8+ years of experience**, I focus on solving the problems that appear when systems start scaling.
-
-My work sits at the intersection of:
-
-> **System Design × Performance Optimization × Clean Architecture × AI-Assisted Development**
+⚡ Building **high-scale, resilient systems** that perform under real-world pressure
 
 ---
 
-## 🧠 What I Do
+## 🔥 About Me
 
-- Architect scalable backend systems
-- Optimize performance for high-traffic applications
-- Design reliable APIs and distributed systems
-- Build education & exam platforms handling thousands of users
-- Apply AI tools to accelerate development workflows
+I design and build **backend systems that don’t break when traffic spikes**.
+
+With **8+ years of experience**, I specialize in solving problems that only appear at scale —
+**performance bottlenecks, memory limits, concurrency issues, and system design flaws.**
+
+I focus on:
+
+* ⚡ Performance as a **core feature**, not an afterthought
+* 🧱 Clean, scalable **system architecture**
+* 🔁 Reliable systems that **fail gracefully under load**
+* 🚀 Turning ideas into **production-ready platforms**
+
+> **“Good code works. Great systems scale.”**
+
 ---
 
-## 🏗 What I Love Building
+## 🧠 Core Expertise
 
-- High-scale education platforms
-- Exam & assessment systems
-- High-performance APIs
-- Distributed backend services
-- Developer productivity tools
+* **System Design & Architecture**
+* **High-Concurrency Backend Systems**
+* **Performance Optimization (CPU, Memory, DB)**
+* **Scalable API Design**
+* **Distributed Systems**
+* **AI-Augmented Development Workflows**
 
 ---
 
-## 📚 Currently Exploring
+## 🏗 What I Build
 
-- AI-Augmented Software Development
-- Distributed System Design
-- Backend Performance Engineering
-- Large-Scale System Architecture
+* 📚 High-scale **Education Platforms**
+* 📝 **Exam & Assessment Systems** (thousands of concurrent users)
+* ⚡ **High-performance APIs**
+* 🔗 Distributed backend services
+* 🛠 Developer productivity tools
+
+---
+
+## ⚙️ Tech Stack
+
+**Backend**
+
+* Laravel (Expert)
+* Python (AI / Data / Automation)
+* Node.js / Express
+
+**Databases**
+
+* MySQL (Query Optimization, Scaling)
+* MongoDB (High-volume data systems)
+* Redis (Caching, Performance Boosting)
+
+**System Design**
+
+* Load Handling & Scaling Strategies
+* Queue Systems & Background Jobs
+* API Optimization
+* Memory Management & Profiling
+
+---
+
+## 🚀 What Makes Me Different
+
+* I don’t just build features — I build **systems that survive scale**
+* Strong focus on **performance under real traffic (1000s of users)**
+* Experience debugging **deep system-level issues**
+* Blend of **engineering + architecture + practical execution**
+* Leveraging AI to **accelerate development without sacrificing quality**
+
+---
+
+## 📈 Current Focus
+
+* AI-Augmented Software Development
+* Large-Scale System Architecture
+* Backend Performance Engineering
+* Distributed Systems at Scale
 
 ---
 
 ## 🌍 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hirenkukadiya
-- GitHub: https://github.com/kukadiyahiren
+* 🔗 LinkedIn: https://www.linkedin.com/in/hirenkukadiya
+* 💻 GitHub: https://github.com/kukadiyahiren
 
 ---
+
 ## 💬 Ask Me About
 
-LARAVEL • PYTHON • EXPRESS • MONGODB • MYSQL
+**Laravel • System Design • Performance Optimization • Scaling • APIs • Python • Databases**
 
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kukadiyahiren)
-<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kukadiyahiren) -->
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Architect;Laravel+Expert;Performance+Engineer;AI-Augmented+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Architect;Performance+Engineer;Laravel+Expert;AI-Augmented+Developer)
 
-⭐ *I enjoy sharing practical insights about system performance, Laravel internals, and building scalable platforms.*
+---
+
+## ⭐ Final Note
+
+I enjoy sharing **practical, real-world insights** about:
+
+* Scaling backend systems
+* Laravel internals
+* Performance optimization
+* Building reliable production systems
+
+---
+
+## 🚀 Let’s Build Something Scalable
+
+If you're working on a system that needs to handle **real users, real traffic, and real complexity** —
+let’s connect and build it the right way.
